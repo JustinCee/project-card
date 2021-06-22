@@ -8,6 +8,33 @@ let projects = [
     githubURL: "https://github.com/JustinCee/contact-form",
     liveProjectURL: "https://upbeat-curran-ab2247.netlify.app",
   },
+  {
+    imgURL: "./images/Portfolio-Desk.jpg",
+    imgALT: "Timeline",
+    title: "TimeLine",
+    techStack: "HTML/CSS",
+    description: "A simple timeline",
+    githubURL: "https://github.com/JustinCee/timeline",
+    liveProjectURL: "https://nostalgic-kirch-f25659.netlify.app",
+  },
+  {
+    imgURL: "./images/testimonial-example-da3e2204.png",
+    imgALT: "Testiomonial",
+    title: "Testimonial",
+    techStack: "HTML/CSS",
+    description: "A simple Testimonial page",
+    githubURL: "https://github.com/JustinCee/testimonials",
+    liveProjectURL: "https://vigorous-austin-391502.netlify.app",
+  },
+  {
+    imgURL: "./images/testimonial-example-da3e2204.png",
+    imgALT: "Testiomonial",
+    title: "Testimonial",
+    techStack: "HTML/CSS",
+    description: "A simple Testimonial page",
+    githubURL: "https://github.com/JustinCee/testimonials",
+    liveProjectURL: "https://vigorous-austin-391502.netlify.app",
+  },
 ];
 
 function createCard(card) {
